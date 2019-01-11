@@ -6,6 +6,9 @@
 	</head>
 
 	<body>
+    <style>
+      a { color: #fdb413; }
+      </style>
 	<div class="page">
 		<nav class="main-nav">
 			<a href="#">Home</a>
